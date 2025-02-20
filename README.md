@@ -1,5 +1,12 @@
 # Hii, I am Owais Idrisi
-💫 About Me: I'm a full-stack developer passionate about building MERN applications and exploring AI innovations. I love combining technology with creativity to solve real-world problems.<br><br>🌱 I’m currently learning<br>Redux for state management<br>backend development<br>AI/ML APIs for enhancing web applications<br><br>👯 I’m looking to collaborate on<br>MERN stack projects<br>AI-based web applications<br><br>🤝 I’m looking for help with<br>Advanced backend concepts<br>💬 Ask me about<br>Web development (React, Node.js, Tailwind CSS)<br>AI-powered applications<br>Arabic learning resources<br><br>⚡ Fun fact<br>I love reading Books, studying Arabic Language , Interested in philosophy 
+💫 **About Me:**  
+Full-stack developer passionate about **MERN** applications and **AI innovations**, blending technology with creativity to solve real-world problems.  
+
+🌱 **Currently Learning:** Redux, backend development, AI/ML APIs  
+👯 **Looking to Collaborate:** MERN & AI-based web applications  
+🤝 **Need Help With:** Advanced backend concepts  
+💬 **Ask Me About:** Web dev (React, Node.js, Tailwind CSS), AI apps, Arabic learning  
+⚡ **Fun Fact:** I enjoy reading books, studying Arabic, and exploring philosophy  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owais-idrisi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Owaisidrisi_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idrisiowais05@gmail.com) 
